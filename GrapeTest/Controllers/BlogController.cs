@@ -8,7 +8,7 @@ using GrapeTest.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+
 
 namespace GrapeTest.Controllers
 {
